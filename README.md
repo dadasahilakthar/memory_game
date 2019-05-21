@@ -72,6 +72,9 @@ For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
 
 -   I have added `reset()` function which will reset the game on clicking reset button
 
+-   I have added sweet aleret that will show a message after the game.
+
+
 ## conclusion
 
 -   I learnt DOM manipulations with ES6 functionalities
