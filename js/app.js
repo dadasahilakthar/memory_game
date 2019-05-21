@@ -111,6 +111,7 @@ function gameOver() {
 
   if (matchCount == 8) {
     clearInterval(timerInterval);
+    //sweet alert
     swal({
       title: 'Congratulations..!',
       html: "Total Moves : <b>" + move.innerHTML + "</b><br>  Wow! you have completed the game within short time : <b>" + timer.innerHTML + " sec </b><br> You have earned : " + starsCount,
